@@ -3,7 +3,7 @@
 A simple counter application built using **HTML**, **CSS**, and **JavaScript**, allowing users to increment, decrement, and reset a numeric value.
 
 ## 📌 Overview
-The app updates a displayed number based on user button clicks.
+The app updates a displayed number based on user button clicks, beginning with 0.
 
 ## 🚀 Features
 - Increment button  
@@ -30,7 +30,8 @@ This mini-app helps practice:
 - Button interactions  
 - Updating UI based on JavaScript state  
 
-## 📂 Folder Contents
+## Screenshot
+<img width="2880" height="1627" alt="counter" src="https://github.com/user-attachments/assets/103b2be4-57bb-48f1-8abe-8e75ca8757bd" />
 
 ## 📄 License
 MIT License
