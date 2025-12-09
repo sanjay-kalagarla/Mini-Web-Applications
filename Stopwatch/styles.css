@@ -1,0 +1,44 @@
+.main{
+    height: 90vh;
+    background-image: url("images/jurica-koletic-MLLBlDL5bDw-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    padding: 20px;
+}
+.header{
+    font-size: 2.5rem;
+}
+#start{
+    background-color: hsl(120, 100%, 50%);
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    min-width: 70px;
+}
+#start:hover{
+    background-color: hsl(120, 100%, 40%);
+}
+#stop{
+    background-color: hsl(0, 100%, 50%);
+    padding: 5px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    min-width: 70px;
+}
+#stop:hover{
+    background-color: hsl(0, 100%, 40%);
+    padding: 5px 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#reset{
+    background-color: hsl(204, 100%, 50%);
+    padding: 5px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    min-width: 70px;
+}
+#reset:hover{
+    background-color: hsl(204, 100%, 40%);
+}

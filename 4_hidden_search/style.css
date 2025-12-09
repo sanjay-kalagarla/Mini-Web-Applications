@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(249, 83%, 65%);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.main{
+    position: relative;
+    height: 50px;
+}
+.main .input{
+    background-color: hsl(0, 0%, 100%);
+    border: none;
+    height: 44px;
+    width: 150px;
+    font-size: 20px;
+    padding: 3px;
+    outline: none;
+}
+.main .button{
+    background-color: hsl(0, 0%, 100%);
+    border: none;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    outline: none;
+}
+.main .button:hover{
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    height: 50px;
+    width: 50px;
+}
+.enabled{
+    display: inline;
+    transition: all 0.3s ease;
+}
+.disabled{
+    display: none;
+    transition: all 0.3s ease;
+}
